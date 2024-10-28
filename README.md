@@ -2,7 +2,8 @@
 
 COM Careers Event: Introduction to Online Portfolios for COM Students
 
-- [Main event slides](https://docs.google.com/presentation/d/1q8YAMDP55HyJwOyk-364c7Uxb0APARsQZrWxK6I2TE0/edit?usp=sharing) (TUOS login required)
+- [Event slides](https://docs.google.com/presentation/d/1q8YAMDP55HyJwOyk-364c7Uxb0APARsQZrWxK6I2TE0/edit?usp=sharing) (TUOS login required)
+- [Event 1 Wooclap results](https://drive.google.com/file/d/1H7HHEzMQHYtfWUJaGEMC9tqUpHIwYQLA/view?usp=sharing)  (Monday 28 October 2024, TUOS login required)
 - [Discussion forum](https://github.com/TUOS-COM-Portfolios/2024-Autumn/discussions)
 
 Feel free to dive into the discussion forum! Ask technical questions, share your draft portfolio, get feedback, and learn pro-tips. 
