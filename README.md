@@ -15,3 +15,4 @@ Feel free to dive into the discussion forum! Ask technical questions, share your
 - (GitHub) [GitHub Pages](https://pages.github.com/)
 - (GitHub) [GitHub Pages with Jeklly Quickstart](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
 
+Please contribute to maintaining and improving the list of additional resources by creating merge requests. :) 
