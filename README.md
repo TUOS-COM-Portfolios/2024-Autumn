@@ -10,6 +10,7 @@ Feel free to dive into the discussion forum! Ask technical questions, share your
 
 ### Additional Resources
 
+- [Portfolio websites (for the Games Industry)](https://sites.google.com/sheffield.ac.uk/portfolios/)
 - (GitHub) [Developer portfolios](https://github.com/emmabostian/developer-portfolios)
 - (GitHub) [Portfolio idea](https://github.com/Evavic44/portfolio-ideas)
 - (GitHub) [GitHub Pages](https://pages.github.com/)
